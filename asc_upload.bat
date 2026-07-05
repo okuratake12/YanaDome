@@ -21,4 +21,3 @@ git commit -m "AllSkyCam Auto Upload : %date% %time%"
 git push origin main --force
 
 echo [%time%] 自動アップロード処理を終了しました。
-pause
